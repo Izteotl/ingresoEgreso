@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-app-de311": {
+      "hosting": {
+        "ingresoEgreso": [
+          "ingreso-egreso-app-de311"
+        ]
+      }
+    }
+  }
+}
